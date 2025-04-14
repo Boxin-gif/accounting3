@@ -101,18 +101,3 @@ hr {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
-@media (max-width: 480px) {
-    form input, form select, form button {
-        font-size: 1rem;
-        padding: 10px;
-    }
-
-    h1 {
-        font-size: 2rem;
-    }
-
-    .record p {
-        font-size: 1rem;
-    }
-}
